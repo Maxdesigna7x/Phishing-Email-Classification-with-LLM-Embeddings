@@ -1,0 +1,13 @@
+.venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+dataset/
+artifacts/*
+!artifacts/mlp_model.pt
+artifacts_structured/*
+!artifacts_structured/mlp_structured_model.pt
+
+dark_mode.png
+ABOUT.md
