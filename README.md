@@ -14,6 +14,12 @@ The project includes two notebook variants:
 
 The first notebook uses the unified `text_combined` field. The second notebook keeps the original email fields and adds structured numeric features such as sender patterns, subject/body statistics, and URL-related signals.
 
+## Dataset Source
+
+The email corpus used in this project comes from Kaggle:
+
+https://www.kaggle.com/datasets/naserabdullahalam/phishing-email-dataset
+
 ## Why this project
 
 Phishing emails are not only about semantics. They also carry metadata cues:
